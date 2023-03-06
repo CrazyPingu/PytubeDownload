@@ -4,5 +4,6 @@
 The code need some external libraries to works. Use the following command to install al the requirements: 
 ```
 pip install -r requirements.txt
-
 ```
+
+Install [FFMPEG](https://ffmpeg.org/download.html)
